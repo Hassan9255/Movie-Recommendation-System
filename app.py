@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load small pickle
-with open('movie_data_small.pkl', 'rb') as file:
+with open('movie_data.pkl', 'rb') as file:
     movies = pickle.load(file)
 
 # Compute cosine similarity dynamically
