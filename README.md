@@ -29,6 +29,17 @@ It recommends movies similar to the one selected by the user based on **movie ge
 
 ---
 
+
+## 🧰 Tools & Technologies Used
+| Category | Tools |
+|-----------|--------|
+| **Programming Language** | Python |
+| **Libraries** | pandas, numpy, scikit-learn, streamlit, requests |
+| **Machine Learning** | Cosine Similarity, CountVectorizer |
+| **Data Source** | TMDB Movie Metadata (Kaggle) |
+| **Deployment** | Streamlit Cloud |
+| **Environment** | Jupyter Notebook, VS Code |
+
 ## 🖥️ Project Structure
 
 - MRS.ipynb # Data preprocessing and feature extraction
