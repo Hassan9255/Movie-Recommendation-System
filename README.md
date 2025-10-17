@@ -31,3 +31,10 @@ It recommends movies similar to the one selected by the user based on **movie ge
 
 ## 🖥️ Project Structure
 
+- MRS.ipynb # Data preprocessing and feature extraction
+- app.py # Streamlit web app
+- movie_data.pkl # Preprocessed movie dataset
+- requirements.txt # Dependencies
+- tmdb_5000_movies.csv # Movies dataset
+- tmdb_5000_credits.csv # Credits dataset
+- README.md # Project documentation
